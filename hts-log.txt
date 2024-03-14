@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 14 Mar 2024 18:35:11 at https://html.themeholy.com/bame/demo/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://html.themeholy.com/bame/demo/index.html -O1 "C:\Users\PC\Desktop\x-game" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:36:42	Error: 	"Not Found" (404) at link https://html.themeholy.com/bame/demo/assets/img/shape/star.svg (from https://html.themeholy.com/bame/demo/assets/css/style.css)
+18:36:42	Error: 	"Not Found" (404) at link https://html.themeholy.com/bame/demo/assets/img/icon/process_arrow2-1.svg (from https://html.themeholy.com/bame/demo/assets/css/style.css)
+18:36:42	Error: 	"Not Found" (404) at link https://html.themeholy.com/bame/demo/assets/img/process/process-card-bg2-1.png (from https://html.themeholy.com/bame/demo/assets/css/style.css)
+18:36:42	Error: 	"Not Found" (404) at link https://html.themeholy.com/bame/demo/shop-detailis.html (from https://html.themeholy.com/bame/demo/cart.html)
+18:36:42	Error: 	"Not Found" (404) at link https://html.themeholy.com/bame/demo/assets/img/service/service_inner_1.png (from https://html.themeholy.com/bame/demo/service-details.html)
+18:36:42	Error: 	"Not Found" (404) at link https://html.themeholy.com/bame/demo/assets/img/service/service_inner_2.png (from https://html.themeholy.com/bame/demo/service-details.html)
+18:36:42	Error: 	"Not Found" (404) at link https://html.themeholy.com/bame/demo/assets/img/bg/service_card_bg_1.jpg (from https://html.themeholy.com/bame/demo/service-details.html)
+18:36:42	Error: 	"Not Found" (404) at link https://html.themeholy.com/bame/demo/assets/img/icon/service_card_1.svg (from https://html.themeholy.com/bame/demo/service-details.html)
+18:36:42	Error: 	"Not Found" (404) at link https://html.themeholy.com/bame/demo/assets/img/icon/service_card_2.svg (from https://html.themeholy.com/bame/demo/service-details.html)
+18:36:42	Error: 	"Not Found" (404) at link https://html.themeholy.com/bame/demo/assets/img/service/service_inner_3.png (from https://html.themeholy.com/bame/demo/service-details.html)
+18:36:42	Error: 	"Not Found" (404) at link https://html.themeholy.com/bame/demo/assets/img/service/service_inner_4.png (from https://html.themeholy.com/bame/demo/service-details.html)
+18:36:42	Error: 	"Not Found" (404) at link https://html.themeholy.com/bame/demo/assets/img/service/service_inner_5.png (from https://html.themeholy.com/bame/demo/service-details.html)
+18:36:42	Error: 	"Not Found" (404) at link https://html.themeholy.com/bame/demo/assets/img/service/service_inner_6.png (from https://html.themeholy.com/bame/demo/service-details.html)
+18:36:42	Error: 	"Not Found" (404) at link https://html.themeholy.com/bame/demo/assets/img/service/service_inner_7.png (from https://html.themeholy.com/bame/demo/service-details.html)
+18:36:42	Error: 	"Not Found" (404) at link https://html.themeholy.com/bame/demo/assets/img/service/service_inner_8.png (from https://html.themeholy.com/bame/demo/service-details.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 31 seconds : 278 links scanned, 262 files written (26019719 bytes overall) [21331170 bytes received at 234408 bytes/sec], 7919288 bytes transferred using HTTP compression in 58 files, ratio 39%, 27.8 requests per connection
+(15 errors, 0 warnings, 0 messages)
